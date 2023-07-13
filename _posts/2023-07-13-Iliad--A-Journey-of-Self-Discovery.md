@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Illiad--A Journey of Self-Discovery"
+title:  "Iliad--A Journey of Self-Discovery"
 date:   2023-07-13 19:41:55 +1000
 categories: tracker
 ---
