@@ -1,4 +1,35 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-07-13T20:52:10+10:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Brandon</title><subtitle>A nice and cozy place for Brandon to share his novel ideas.</subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/jekyll/update/2023/07/13/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2023-07-13T19:41:55+10:00</published><updated>2023-07-13T19:41:55+10:00</updated><id>http://localhost:4000/jekyll/update/2023/07/13/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2023/07/13/welcome-to-jekyll.html"><![CDATA[<h3 id="this-is-the-first-post-of-deploying-jekyll-im-excited-about-the-opportunities-it-bring">This is the first post of deploying <code class="language-plaintext highlighter-rouge">jekyll</code>. I’m excited about the opportunities it bring.</h3>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-07-13T22:48:13+10:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Brandon</title><subtitle>A nice and cozy place for Brandon to share his novel ideas.</subtitle><entry><title type="html">Illiad–A Journey of Self-Discovery</title><link href="http://localhost:4000/tracker/2023/07/13/Illiad-A-Journey-of-Self-Discovery.html" rel="alternate" type="text/html" title="Illiad–A Journey of Self-Discovery" /><published>2023-07-13T19:41:55+10:00</published><updated>2023-07-13T19:41:55+10:00</updated><id>http://localhost:4000/tracker/2023/07/13/Illiad--A-Journey-of-Self-Discovery</id><content type="html" xml:base="http://localhost:4000/tracker/2023/07/13/Illiad-A-Journey-of-Self-Discovery.html"><![CDATA[<p>From today on begins my mission of self-discovery. My priorities center on:</p>
+
+<ul>
+  <li>My mental health</li>
+  <li>My physical health</li>
+  <li>Generate meaningful impact on other people’s lives</li>
+  <li>Pursuit of knowledge</li>
+  <li>Enjoy my life</li>
+</ul>
+
+<p>Per aspera ad astra</p>
+
+<p>I’ll benefit greatly from creating a dashboard to keep track of my progress.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Activity</th>
+      <th style="text-align: left">Time</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Writing about Australian immigration</td>
+      <td style="text-align: left">2 hrs</td>
+    </tr>
+    <tr>
+      <td>Swimming</td>
+      <td style="text-align: left">0</td>
+    </tr>
+  </tbody>
+</table>]]></content><author><name></name></author><category term="tracker" /><summary type="html"><![CDATA[From today on begins my mission of self-discovery. My priorities center on:]]></summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/jekyll/update/2023/07/13/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2023-07-13T19:41:55+10:00</published><updated>2023-07-13T19:41:55+10:00</updated><id>http://localhost:4000/jekyll/update/2023/07/13/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2023/07/13/welcome-to-jekyll.html"><![CDATA[<h3 id="this-is-the-first-post-of-deploying-jekyll-im-excited-about-the-opportunities-it-bring">This is the first post of deploying <code class="language-plaintext highlighter-rouge">jekyll</code>. I’m excited about the opportunities it bring.</h3>
 
 <p>You’ll find this post in your <code class="language-plaintext highlighter-rouge">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code class="language-plaintext highlighter-rouge">jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
 
