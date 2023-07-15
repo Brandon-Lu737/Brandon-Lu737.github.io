@@ -24,3 +24,15 @@ There is definitely a mindset shift from paper journaling to digital journaling 
 I still don't think I should journal on `Goodnotes`, and will reserve that for paper for now.
 
 It's sometimes a bad idea to have an `all-in-one` system like `LogSeq`. I guess sometimes the principle of `Linux` still applies: create apps that do small things and do them well.
+
+10:30-13:00 Berliner Philharmoniker watching
+
+13:00-14:00 Lunch and commute
+
+14:00-17:00 Watching YouTube and travel search; feeling tired, dismayed and unsatisfied **Avoid PNR low productivity**
+
+17:00-18:30 Dinner
+
+18:30-19:00 Video call
+
+19:00-12:00 Movie with Jack Quinlan
