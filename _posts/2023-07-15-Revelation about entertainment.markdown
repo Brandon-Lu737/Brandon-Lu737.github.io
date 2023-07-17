@@ -18,3 +18,9 @@ My intention with my digital tools:
 - Meeting: `Small notebook`
 
 We should produce a **weekly summary** containing the most crucial information about the week, **so that we don't get lost in the wealth of journaling records**.
+
+12:22 Finish wake-up, and did some journaling in this doc and checked my emails and LinkedIn.
+
+12:30-13:30 Breakfast and vainly trying to fix the spotlight issue
+
+13:30-14:15 MOOC: The Science of Well-being

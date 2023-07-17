@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Third day"
+date:   2023-07-16 12:09:29 +1000
+categories: tracker
+---
+
+15:00- Start working on Multivariable calculus MIT course
+
+Morning: woke up at 10 am and had breakfast. Then exhausted the 30-min quota of Netflix. After that, I clear the Safari Reading List which is productive. In the end, I watched some random YouTube videos  through the Google search feature to bypass the Screen Time restrictions.
