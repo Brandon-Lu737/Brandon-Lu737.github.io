@@ -6,5 +6,4 @@ categories: tracker
 ---
 
 Write your post content here.
-10:55 dsafasaf
-10:58 New journal
+10:00 Woke up
