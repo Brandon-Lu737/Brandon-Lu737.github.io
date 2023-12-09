@@ -31,6 +31,7 @@ for file in $postdate*.markdown; do
             open "$file"
         else
             # Append the string to the file
+            echo "" >>"$file"
             echo "$current_time $write_string" >>"$file"
         fi
     fi
