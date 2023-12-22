@@ -11,7 +11,20 @@ yearmonth=$(date "+%Y/%m")
 postdate=$(date "+%Y-%m-%d")
 jekylldate=$(date "+%Y-%m-%d %H:%M:%S %z")
 read -p "Enter the post name: " post_variable;
-read -p "Enter the post category: " post_category;
+
+# Read category and set default if empty
+read -p "Enter the post category: " post_category
+post_category=${post_category:-journal}
+
+# New code for tags
+tags=""
+while true; do
+    read -p "Enter a tag (or type 'done' to finish): " tag_input
+    if [[ "$tag_input" == "done" ]]; then
+        break
+    fi
+    tags+="#$tag_input "
+done
 
 touch ~/Brandon-Lu737.github.io/_posts/$postdate-$post_variable.markdown &&
 cat <<EOF > ~/Brandon-Lu737.github.io/_posts/$postdate-$post_variable.markdown
@@ -20,6 +33,7 @@ layout: post
 title:  "$post_variable"
 date:   $jekylldate
 categories: $post_category
+tags: $tags
 ---
 
 Write your post content here.
